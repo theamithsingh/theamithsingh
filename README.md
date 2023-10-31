@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theamithsingh
 - 👀 I’m a Data Engineer @ Xiatech
-- 🌱 I’m a Python programmer with SQL development experience as well
+- 🌱 I’m a Python and SQL developer with software, cloud, data and IaC experience
 - 📫 You can reach me at amith@xiatech.co.uk
 
 <!---
