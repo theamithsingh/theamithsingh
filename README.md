@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theamithsingh
 - 👀 I’m a Data Engineer @ Xiatech
-- 🌱 I’m a Python and SQL developer with software, cloud, data and IaC experience
+- 🌱 My tools are Python, SQL, JavaScript, GoLang, Terraform, Airflow and Google Cloud Platform
 - 📫 You can reach me at amith@xiatech.co.uk
 
 <!---
